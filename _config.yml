@@ -14,12 +14,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-# remote theme
-remote_theme: "mmistakes/jekyll-theme-so-simple"
-
 # Site settings
+remote_theme: "mmistakes/jekyll-theme-so-simple"
 locale: en-US
-title: Field Notes
+title: "Field Notes"
 email: ca.peterson32@gmail.com
 description: "Stories and observations from a wandering ecologist"
 #baseurl: "" # the subpath of your site, e.g. /blog
