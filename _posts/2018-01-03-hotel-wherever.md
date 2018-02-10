@@ -77,7 +77,7 @@ From Casper I cut south through the panhandle of Utah, camping again in the cris
 
 ### The Loneliest Road
 
-<img src="{{site.url}}/assets/images/shoetree.jpg" class="align-center" alt="">
+<img src="/assets/images/shoetree.jpg" class="align-center" alt="">
 
 I chose the Highway 50 route over the slightly more direct and faster Highway 80 precisely because it was less direct and slower. I learned that Highway 50 is called "The Loneliest Road," for reasons not too difficult to fathom. It seemed the most appropriate route for its loneliness; I yearned for a breath, a pause, to assimilate my journey and prepare to flip the switch on the next part of my life. A long stretch of emptiness was exactly what I needed.  
 
