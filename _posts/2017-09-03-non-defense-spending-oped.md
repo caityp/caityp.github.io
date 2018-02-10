@@ -1,11 +1,10 @@
 ---
 layout: post
 title: "In Defense of Non-Defense"
-subtitle: "Opinion piece featured in the Ocala Star Banner"
 date: 2017-09-03 12:00:00 -0800
 categories: science
 tags: [science,political]
-image: images/silversprings.jpg
+image: /assets/images/silversprings.jpg
 ---
 *A paddler enjoys Silver Springs State Park in Marion County, FL, on a wintry day. Photo: C. Peterson.*
 

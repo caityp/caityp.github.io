@@ -1,12 +1,13 @@
 ---
 layout: post
 title: "Red Dirt Diary #2"
-subtitle: "Atardecer"
 date: 2012-01-15 12:00:00 -0800
 categories: [world,science]
 tags: Brazil
-image: images/atardecer.jpg  
+image: /assets/images/atardecer.jpg  
 ---
+### **Atardecer**
+
 Finally, the wind started to blow. It probably meant rain, which of course, is not so great for my experiment. But it also meant that the insupportable humidity was blown away and the temperature finally dropped. I could move again. I rolled down the window and stuck my face out like a happy puppy as we trundled down the pot-holed road to the experiment.
 
 This is the easiest part of the day. No tight time frames, no sun, no digging. Just go grab tripods. Take them apart, bind up the cords, and put the protective covers on the sensors. Organize it all in the back of the pickup. And watch the glorious landscape change colors as the sun goes down. Every evening in Tupã is glorious, and always just a little bit different. Today the incoming rain clouds lend a romantic gloom, the clouds seeming as though painted on the low horizon.
