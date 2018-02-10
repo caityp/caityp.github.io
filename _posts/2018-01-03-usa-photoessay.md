@@ -81,9 +81,8 @@ From Casper I cut south through the panhandle of Utah, camping again in the cris
 I chose the Highway 50 route over the slightly more direct and faster Highway 80 precisely because it was less direct and slower. I learned that Highway 50 is called "The Loneliest Road," for reasons not too difficult to fathom. It seemed the most appropriate route for its loneliness; I yearned for a breath, a pause, to assimilate my journey and prepare to flip the switch on the next part of my life. A long stretch of emptiness was exactly what I needed.  
 
 ### Davis, CA
-<figure>
-  <img src="/assets/images/pumpkins.jpg"/>
-</figure>
+<img src="/assets/images/pumpkins.jpg", class="align-center", alt="">
+
 I crossed the threshold - the Sierra Nevadas - and arrived in California just in time for pumpkin season.
 
 Admittedly, there are many easier ways I could have driven across the U.S. But my slightly meandering and often indeterminate route led to a few things that a pre-fabricated journey, hopscotching from hotel to hotel and gas station to gas station, would never have brought. A college reunion, for one. Several perfect, cloudless, star-strewn nights for another. Re-forged connections with friends and family from Washington, D.C. to Wyoming. A number of unplanned itinerary stops, including a life-sized replica of Stonehenge made from defunct vehicles. Places that were once points on a map, now associated with a cup of perfect coffee or a friendly front door. For the cost of a few extra miles out of my way I learned the texture and uniqueness of a vast expanse of my country.
