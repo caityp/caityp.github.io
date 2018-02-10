@@ -1,0 +1,15 @@
+# menu pages in order of appearance
+
+  - title: Posts
+    url: /posts/
+  - title: Agriculture
+    url: /agriculture/
+  - title: World
+    url: /world/
+  - title: Nature
+    url: /nature/
+  - title: Science
+    url: /science/
+  - title: About
+    url: /about/
+    

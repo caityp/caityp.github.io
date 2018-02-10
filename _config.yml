@@ -22,7 +22,7 @@ email: ca.peterson32@gmail.com
 description: "Stories and observations from a wandering ecologist"
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "https://caityp.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-#logo: "images/logo.png"
+logo: "images/logo.png"
 date_format: "%B %-d, %Y"
 
 google_fonts:
@@ -30,6 +30,11 @@ google_fonts:
     weights: "400,400i,700,700i"
   - name: "Lora"
     weights: "400,400i,700,700i"
+
+author:
+  name: Caity Peterson
+  twitter: caitypeterson
+  picture: /images/author.jpg
 
 disqus_shortname: caitypeterson
 twitter_username: caitypeterson
@@ -96,7 +101,7 @@ footer_links:
     icon: fab fa-github-square
   - title: LinkedIn
     url: https://linkedin.com/in/caityp/
-    icon: fab fa-linkedin-square
+    icon: fab fa-linkedin
   - title: Feed
     url: atom.xml
     icon: fas fa-rss-square
