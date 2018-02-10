@@ -6,8 +6,7 @@ categories: [world,nature]
 tags: [California,Florida]
 image: /assets/images/wyoming2.JPG
 ---
-### **The perks of ditching the key card**
-
+### The perks of ditching the key card
 I've had enough of hotels in this short lifetime. Weekends traveling to games
 with my college's soccer team, conferences, airports - all of them came along
 with a hotel key and a room, each one identical to all the others.
@@ -43,9 +42,11 @@ to me for its air of history and mystery. I spent the afternoon walking a zigzag
 I then drove through West Virginia to the town of Versailles, outside of Lexington, Kentucky. My dad has a veterinary practice back home, and his first business partner and family had moved here years ago. My family counts them among our oldest friends, having raised their children alongside my brothers and I. They had a small cattle farm and cut flower business in Versailles and I had visited them once with my mother what seemed like ages ago. They hosted me for two nights in their 19th century farmhouse, regaling me with family memories, toting me along on the day's farm operations, and sending me off with a wave and jar of freshly canned tomato salsa from their garden.
 
 ### Birdseye, IN
+
 <figure>
   <img src="{{site.url}}/assets/images/shops.jpg"/>
 </figure>
+
 The proliferation of hotels and chain restaurants is a symptom of the homogenization of the countryside. My quest to avoid them took me to some unexpected corners. After several hours of driving through Midwest corn country and with the rumblings of hunger in my belly, I took a random interstate exit and ended up in Birdseye, an Indiana town so small it barely warrants a point on the map. It was Sunday, and the local burger joint and ice cream shop were closed. A flaking, red and white hand-painted sign informed me, "Rabbits 4 sale." A deli tucked away in the back of an ancient hardware store supplied me with a grilled ham and cheese sandwich and a bag of potato chips, which at the time seemed like the most decadent meal I had ever been served.
 
 In St. Louis, MO, I spent the night at the home of a friend's parents. Grabbed a frozen custard with her mom, pizza with her brother. Lolled in the pool. Eating cereal the next morning in their kitchen, surrogate mom quizzed me on my plans for lodging that night. Upon learning that I had none, she pulled from the crammed shelf above the toaster a bound booklet containing the names and addresses of the multitude of cousins and relatives that make up my friend's very large and very Italian family. She ran her finger down the list and stopped at an entry. "Is Lawrence, Kansas, much out of your way? We have family there who could put you up for the night. Let me give them a call."
@@ -82,8 +83,7 @@ I chose the Highway 50 route over the slightly more direct and faster Highway 80
 
 ### Davis, CA
 
-![image-center]({{ site.url }} '/assets/images/pumpkins.JPG' ){: .align-center}
-
+<img src="{{site.url}}/assets/images/pumpkins.JPG" class=align-center>
 
 I crossed the threshold - the Sierra Nevadas - and arrived in California just in time for pumpkin season.
 
