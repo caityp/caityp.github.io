@@ -82,7 +82,8 @@ I chose the Highway 50 route over the slightly more direct and faster Highway 80
 
 ### Davis, CA
 
-<img src="/assets/images/pumpkins.jpg" class="align-center" alt="">
+![image-center]({{ '/assets/images/pumpkins.jpg }}){: .align-center}
+
 
 I crossed the threshold - the Sierra Nevadas - and arrived in California just in time for pumpkin season.
 
