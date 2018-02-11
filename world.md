@@ -1,6 +1,6 @@
 ---
 title: Posts from Around the World
 layout: category
-taxonomy: World
+taxonomy: world
 permalink: /categories/world/
 ---
