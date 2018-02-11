@@ -4,9 +4,11 @@ title: "Red Dirt Diary #3"
 date: 2017-01-23 12:00:00 -0800
 categories: [world]
 tags: Brazil
-image: /assets/images/sombra.jpg     
+image:
+  path: /assets/images/sombra.jpg     
+  thumbnail: /assets/images/sombra-400x200.jpg
 ---
-### **Sombra**
+### *Sombra*
 
 On the day that Ike died, I tried unsuccessfully to hide my dejection from the other folks on the *fazenda*. My faithful blue merle, the first dog that was ever mine, had died of old age on my parents' farm while I was off in this remote corner of Brazil.
 

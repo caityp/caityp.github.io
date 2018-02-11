@@ -4,9 +4,11 @@ title: "Red Dirt Diary #2"
 date: 2012-01-15 12:00:00 -0800
 categories: [world,science]
 tags: Brazil
-image: /assets/images/atardecer.jpg  
+image:
+  path: /assets/images/atardecer.jpg  
+  thumbnail: /assets/images/atardecer-400x100.jpg
 ---
-### **Atardecer**
+### *Atardecer*
 
 Finally, the wind started to blow. It probably meant rain, which of course, is not so great for my experiment. But it also meant that the insupportable humidity was blown away and the temperature finally dropped. I could move again. I rolled down the window and stuck my face out like a happy puppy as we trundled down the pot-holed road to the experiment.
 
