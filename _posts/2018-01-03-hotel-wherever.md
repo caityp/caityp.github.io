@@ -62,7 +62,7 @@ From Kansas I cut north through Nebraska, aiming for Wyoming. I only chose to go
 
 ### Alliance, NE
 
-img src="{{site.baseurl}}/assets/carhenge.JPG" class="align-center" alt="" height="300" width="650">
+<img src="{{site.baseurl}}/assets/carhenge.JPG" class="align-center" alt="" height="300" width="650">
 
 A friend from home learned I was in Nebraska and shot me a text, "You have to go see Carhenge!" It was just the sort of wacky thing that he would know about. I never knew it was there, would never have visited it otherwise, but what excuse did I have for missing it?
 
