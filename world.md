@@ -2,5 +2,5 @@
 title: World
 layout: category
 taxonomy: World
-permalink: /world/
+permalink: categories/world/
 ---
