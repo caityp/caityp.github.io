@@ -1,4 +1,6 @@
 ---
 layout: posts
-title: Posts
+title: All Posts by Date
+permalink: /posts/
+show_excerpts: true
 ---
