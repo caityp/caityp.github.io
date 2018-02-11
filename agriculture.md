@@ -1,6 +1,6 @@
 ---
-title: Posts about agriculture
+title: Notes about Agriculture
 layout: category
 taxonomy: agriculture
-permalink: /categories/#agriculture/
+permalink: /agriculture/
 ---

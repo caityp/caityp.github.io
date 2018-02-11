@@ -5,8 +5,8 @@ date: 2017-01-11 12:00:00 -0800
 categories: world
 tags: Australia
 image:
-  path: /assets/images/aus.jpg
-  thumbnail: /assets/images/aus-400x200.jpg
+  path: /assets/aus.jpg
+  thumbnail: /assets/aus-400x200.jpg
 ---
 Colin, I realized, would never be a good rancher. Granted, he had all the prerequisites: he was tall, wide-backed and crushingly strong. He had a predilection for machinery and the ability to make rusty relics puff along grudgingly with a bit of tinkering every morning. He had more land than I ever knew it was possible for one person to own (though in Australia this was rather par for the course). He was rarely seen without his hat, even though it had been rained on enough times to make the felt brim flop around his ears in a most unbecoming fashion. He could down a case of stubbies without blinking, his vast frame never seeming to feel the ill effects. He didn’t mind solitude, and often went several weeks on end without ever making an appearance in town. And he could tell a story with gusto, at his most expansive when he could have a set of strangers around the dinner table guffawing at a raunchy (or better yet, bloody) tale.
 

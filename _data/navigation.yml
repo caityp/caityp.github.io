@@ -3,12 +3,12 @@
   - title: Posts
     url: /posts/
   - title: Agriculture
-    url: categories/#agriculture/
+    url: /agriculture/
   - title: World
-    url: categories/#world/
+    url: /world/
   - title: Nature
-    url: categories/#nature/
+    url: /nature/
   - title: Science
-    url: categories/#science/
+    url: /science/
   - title: "About the Author"
     url: /about/

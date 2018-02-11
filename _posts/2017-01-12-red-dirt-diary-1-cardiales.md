@@ -5,8 +5,8 @@ date: 2017-01-12 12:00:00 -0800
 categories: [world,nature]
 tags: Brazil
 image:
-  path: /assets/images/tupatruck.jpg  
-  thumbnail: /assets/images/tupatruck-400x200.jpg
+  path: /assets/tupatruck.jpg  
+  thumbnail: /assets/tupatruck-400x200.jpg
 ---
 ### *Cardiales*
 When you spend enough time at Tupã, everything you own begins to take on the particular tone of ochre that characterizes the region’s iron-rich soil. Your clothes become stained and will likely never revert to their original color. Your shower water runs red with the clay and silt lodged in every wrinkle in your skin. Even the sheep look as though they belong to an odd, local breed, their wool tinted red and their knees, like a toddler’s, permanently dirtied.

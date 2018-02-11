@@ -5,8 +5,8 @@ date: 2017-01-23 12:00:00 -0800
 categories: [world]
 tags: Brazil
 image:
-  path: /assets/images/sombra.jpg     
-  thumbnail: /assets/images/sombra-400x200.jpg
+  path: /assets/sombra.jpg     
+  thumbnail: /assets/sombra-400x200.jpg
 ---
 ### *Sombra*
 

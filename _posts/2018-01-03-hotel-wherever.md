@@ -5,8 +5,8 @@ date: 2018-01-03 12:00:00 -0800
 categories: [world,nature]
 tags: [California,Florida]
 image:
-  path: /assets/images/wyoming2.JPG
-  thumbnail: /assets/images/wyoming2-400x200.jpg
+  path: /assets/wyoming2.JPG
+  thumbnail: /assets/wyoming2-400x200.jpg
 ---
 ### The perks of ditching the key card
 I've had enough of hotels in this short lifetime. Weekends traveling to games

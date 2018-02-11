@@ -1,6 +1,6 @@
 ---
-title: Posts about nature
+title: Notes about nature
 layout: category
 taxonomy: nature
-permalink: /categories/#nature/
+permalink: /nature/
 ---

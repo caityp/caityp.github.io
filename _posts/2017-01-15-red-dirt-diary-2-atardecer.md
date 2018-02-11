@@ -5,8 +5,8 @@ date: 2017-01-15 12:00:00 -0800
 categories: [world,science]
 tags: Brazil
 image:
-  path: /assets/images/atardecer.jpg  
-  thumbnail: /assets/images/atardecer-400x200.jpg
+  path: /assets/atardecer.jpg  
+  thumbnail: /assets/atardecer-400x200.jpg
 ---
 ### *Atardecer*
 

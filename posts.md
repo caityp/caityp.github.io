@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: All Posts by Date
+title: All Notes by Date
 permalink: /posts/
 show_excerpts: true
 entries_layout: grid
