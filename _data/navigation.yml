@@ -1,7 +1,7 @@
 # menu pages in order of appearance
 
-  - title: Posts
-    url: /posts/
+  - title: All Notes
+    url: /notes/
   - title: Agriculture
     url: /agriculture/
   - title: World
