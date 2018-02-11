@@ -1,18 +1,13 @@
 ---
 layout: page
-title: About
+title: About the Author
 permalink: /about/
+image:
+  path: /assets/images/author1.JPG
+  caption: "In Parque Nacional Natural El Cocuy, Boyaca, Colombia. Photo: C. Peterson"
 ---
+Hi, I'm Caity. While earning my Ph.D. in Ecology at the University of California, Davis, I write on a variety of topics ranging from the intersection of ecology and agriculture, world travels, and the great outdoors to ruminations on science, policy, food systems, and nature.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+In my spare time I am a freelance science writer and technical editor working in English, Spanish, and Portuguese. Feel free to [contact me ](mailto:ca.peterson32@gmail.com) or check out my [Linkedin](https://www.linkedin.com/in/caityp/) profile for more info.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+*This website was built using the* **[So Simple](https://github.com/mmistakes/so-simple-theme)** *[Jekyll](https://jekyllrb.com/) theme.*
