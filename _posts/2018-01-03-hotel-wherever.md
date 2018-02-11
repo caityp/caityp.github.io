@@ -5,8 +5,9 @@ date: 2018-01-03 12:00:00 -0800
 categories: [world,nature]
 tags: [California,Florida]
 image:
-  path: /assets/wyoming2.JPG
+  path: /assets/wyoming2.jpg
   thumbnail: /assets/wyoming2-400x200.jpg
+  caption: "Ranchland near Casper, WY. Photo: C. Peterson"
 ---
 ### The perks of ditching the key card
 I've had enough of hotels in this short lifetime. Weekends traveling to games
@@ -32,20 +33,20 @@ on my route.
 
 ### Savannah, GA
 
-<img src="{{site.baseurl}}/assets/images/windows.JPG" class="align-center" alt="" height="300" width="650">
+<img src="{{site.baseurl}}/assets/windows.JPG" class="align-center" alt="" height="300" width="650">
 
 Only a few hours drive from my family home in Florida, Savannah had long called
 to me for its air of history and mystery. I spent the afternoon walking a zigzag through every block in downtown before driving to Washington, D.C., to pick up an old college friend and spend the night at her cousins'. A mini-reunion ensued the next day, when we drove halfway across Virginia to Blacksburg, the home town of another college friend. Our trio of former roommates and/or teammates sat in rocking chairs on front porches and yarned our way through several years of unshared history, forked roads merging again.
 
 ### Versailles, KY
 
-<img src="{{site.baseurl}}/assets/images/horses.JPG" class="align-center" alt="" width="650" height="300">
+<img src="{{site.baseurl}}/assets/horses.JPG" class="align-center" alt="" width="650" height="300">
 
 I then drove through West Virginia to the town of Versailles, outside of Lexington, Kentucky. My dad has a veterinary practice back home, and his first business partner and family had moved here years ago. My family counts them among our oldest friends, having raised their children alongside my brothers and I. They had a small cattle farm and cut flower business in Versailles and I had visited them once with my mother what seemed like ages ago. They hosted me for two nights in their 19th century farmhouse, regaling me with family memories, toting me along on the day's farm operations, and sending me off with a wave and jar of freshly canned tomato salsa from their garden.
 
 ### Birdseye, IN
 
-<img src="{{site.baseurl}}/assets/images/shops.JPG" class="align-center" alt="" width="650" height="300">
+<img src="{{site.baseurl}}/assets/shops.JPG" class="align-center" alt="" width="650" height="300">
 
 The proliferation of hotels and chain restaurants is a symptom of the homogenization of the countryside. My quest to avoid them took me to some unexpected corners. After several hours of driving through Midwest corn country and with the rumblings of hunger in my belly, I took a random interstate exit and ended up in Birdseye, an Indiana town so small it barely warrants a point on the map. It was Sunday, and the local burger joint and ice cream shop were closed. A flaking, red and white hand-painted sign informed me, "Rabbits 4 sale." A deli tucked away in the back of an ancient hardware store supplied me with a grilled ham and cheese sandwich and a bag of potato chips, which at the time seemed like the most decadent meal I had ever been served.
 
@@ -53,7 +54,7 @@ In St. Louis, MO, I spent the night at the home of a friend's parents. Grabbed a
 
 ### Broken Bow, NE
 
-<img src="{{site.baseurl}}/assets/images/sandhill.JPG" class="align-center" alt="" height="300" width="650">
+<img src="{{site.baseurl}}/assets/sandhill.JPG" class="align-center" alt="" height="300" width="650">
 
 Lawrence was more than I had ever expected from a little Kansas town. The hip and bustling downtown led me to a fine brewery. Bookshops and music stores, historic buildings, and restaurants brightened my glance with their cheerful storefronts. My hosts, strangers to me, soon became less so, and our conversation grew more animated as the afternoon wore on and common interests were discovered. I realized that I had spoken to one of the couple before, on a recommendation from the same friend whose family I had stayed with in St. Louis, as someone who knew musical instruments. In a phone conversation, this man had pointed me to an instrument shop in Salt Lake City, Utah, where I ultimately purchased the same beautiful, magical, 4-string banjo that was on its way from Florida to California at that very moment. My hosts had been more than willing to offer me their guest room, they said, because many strangers had done the same for them in their errant pasts. I recognized this statement as a wink; if I wanted to thank them, the best way was to pay it forward.
 
@@ -61,13 +62,13 @@ From Kansas I cut north through Nebraska, aiming for Wyoming. I only chose to go
 
 ### Alliance, NE
 
-img src="{{site.baseurl}}/assets/images/carhenge.JPG" class="align-center" alt="" height="300" width="650">
+img src="{{site.baseurl}}/assets/carhenge.JPG" class="align-center" alt="" height="300" width="650">
 
 A friend from home learned I was in Nebraska and shot me a text, "You have to go see Carhenge!" It was just the sort of wacky thing that he would know about. I never knew it was there, would never have visited it otherwise, but what excuse did I have for missing it?
 
 ### Casper, WY
 
-<img src="{{site.baseurl}}/assets/images/ranch.JPG" class="align-center" alt="" width="650" height="300">
+<img src="{{site.baseurl}}/assets/ranch.JPG" class="align-center" alt="" width="650" height="300">
 
 My dad hadn't spoken to Bill Allemand since he was a teenager. His father (my grandfather), Doc, and Bill had been hunting buddies since before he'd been born. Dad drove to the Allemand Ranch from Washington, Iowa, some summers to help with the cattle branding, and sure enough, when he called the Allemands out of the blue to tell them I was passing through Casper, they remembered Doc and his son. I was ushered into their home like the heiress to the throne. Proudly, the Allemands pointed out Casper's dinosaur bones, oil rigs, and uranium boxes. They drove me to the ranch, where they said it was 10 miles from the mailbox to the house. I was given the keys to an ATV and escorted to my grandfather and Bill's old deer hunt campsite. I was left there with my tent and the ATV, and cheerfully told to stay as long as I like.
 
@@ -77,13 +78,13 @@ From Casper I cut south through the panhandle of Utah, camping again in the cris
 
 ### The Loneliest Road
 
-<img src="{{site.baseurl}}/assets/images/shoetree.JPG" class="align-center" alt="" height="300" width="650">
+<img src="{{site.baseurl}}/assets/shoetree.JPG" class="align-center" alt="" height="300" width="650">
 
 I chose the Highway 50 route over the slightly more direct and faster Highway 80 precisely because it was less direct and slower. I learned that Highway 50 is called "The Loneliest Road," for reasons not too difficult to fathom. It seemed the most appropriate route for its loneliness; I yearned for a breath, a pause, to assimilate my journey and prepare to flip the switch on the next part of my life. A long stretch of emptiness was exactly what I needed.  
 
 ### Davis, CA
 
-<img src="{{site.baseurl}}/assets/images/pumpkins.JPG" class="align-center" alt="" height="300" width="650">
+<img src="{{site.baseurl}}/assets/pumpkins.JPG" class="align-center" alt="" height="300" width="650">
 
 I crossed the threshold - the Sierra Nevadas - and arrived in California just in time for pumpkin season.
 
