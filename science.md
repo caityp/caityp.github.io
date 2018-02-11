@@ -1,4 +1,6 @@
 ---
+title: Posts about Science
 layout: category
-taxonomy: Science
+taxonomy: science
+permalink: categories/#science/
 ---
