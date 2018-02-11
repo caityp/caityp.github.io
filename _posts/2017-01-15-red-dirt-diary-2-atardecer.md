@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Red Dirt Diary #2"
-date: 2012-01-15 12:00:00 -0800
+date: 2017-01-15 12:00:00 -0800
 categories: [world,science]
 tags: Brazil
 image:
