@@ -6,7 +6,7 @@ categories: [world,science]
 tags: Brazil
 image:
   path: /assets/images/atardecer.jpg  
-  thumbnail: /assets/images/atardecer-400x100.jpg
+  thumbnail: /assets/images/atardecer-400x200.jpg
 ---
 ### *Atardecer*
 
