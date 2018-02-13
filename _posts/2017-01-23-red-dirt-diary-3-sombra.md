@@ -6,7 +6,7 @@ categories: [world]
 tags: Brazil
 image:
   path: /assets/sombra.jpg     
-  thumbnail: /assets/sombra-400x200.jpg
+  thumbnail: /assets/thumbnails/sombra-400x200.jpg
 ---
 ### *Sombra*
 
