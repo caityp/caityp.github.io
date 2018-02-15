@@ -9,7 +9,7 @@ image:
   thumbnail: /assets/thumbnails/silversprings-400x200.jpg
   caption: "A paddler enjoys Silver Springs State Park in Marion County, FL, on a wintry day. Photo: C. Peterson."
 ---
-*Read the original article in the [Ocala Star Banner](http://www.ocala.com/opinion/20170903/in-defense-of-non-defense)*
+*Read the original op-ed in the [Ocala Star Banner](http://www.ocala.com/opinion/20170903/in-defense-of-non-defense)*
 
 In her classic Central Florida book, “Cross Creek,” Marjorie Kinnan Rawlings is delighted one day to accept an invitation to a “pound party” at the Thompsons. But upon her arrival, Marjorie finds that instead of each neighbor bringing a pound of this and a pound of that to contribute to the festivities, she is the sole guest and the sole profferer of a large and sticky cake to be divided among herself and the hungry Thompson brood. The invitation was a trick, albeit a harmless one, invoking the gullibility of a newcomer to the Creek.
 
