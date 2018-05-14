@@ -248,6 +248,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  jekyll-remote-theme
   tzinfo-data
   wdm (~> 0.1.0)
 
