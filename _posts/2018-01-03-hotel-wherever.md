@@ -6,6 +6,7 @@ categories: [world,nature]
 tags: [California,Florida]
 image:
   path: /assets/wyoming2.jpg
+  thumbnail: /assets/thumbnails/wyoming2-400x200.JPG
   caption: "Ranchland near Casper, WY. Photo: C. Peterson"
 ---
 ### The perks of ditching the key card

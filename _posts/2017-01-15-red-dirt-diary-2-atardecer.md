@@ -5,7 +5,9 @@ date: 2017-01-15 12:00:00 -0800
 categories: [world,science]
 tags: Brazil
 image:
-  path: /assets/atardecer.jpg  
+  path: /assets/atardecer.jpg
+  thumbnail: /assets/thumbnails/atardeder-400x200.jpg
+  caption: "Photo: C. Peterson" 
 ---
 ### *Atardecer*
 

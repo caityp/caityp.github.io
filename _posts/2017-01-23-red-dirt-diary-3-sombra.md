@@ -7,6 +7,7 @@ tags: Brazil
 image:
   path: /assets/sombra.jpg     
   thumbnail: /assets/thumbnails/sombra-400x200.jpg
+  caption: "Photo: C. Peterson"
 ---
 ### *Sombra*
 

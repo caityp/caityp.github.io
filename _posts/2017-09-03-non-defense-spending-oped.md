@@ -6,6 +6,7 @@ categories: science
 tags: [science,political]
 image:
   path: /assets/silversprings.jpg
+  thumbnail: /assets/thumbnails/silversprings-400x200.jpg
   caption: "A paddler enjoys Silver Springs State Park in Marion County, FL, on a wintry day. Photo: C. Peterson."
 ---
 *Read the original op-ed in the [Ocala Star Banner](http://www.ocala.com/opinion/20170903/in-defense-of-non-defense)*
