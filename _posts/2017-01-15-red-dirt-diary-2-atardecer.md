@@ -6,8 +6,8 @@ categories: [world,science]
 tags: Brazil
 image:
   path: /assets/atardecer.jpg
-  thumbnail: /assets/thumbnails/atardeder-400x200.jpg
-  caption: "Photo: C. Peterson" 
+  thumbnail: /assets/thumbnails/atardecer-400x200.jpg
+  caption: "Photo: C. Peterson"
 ---
 ### *Atardecer*
 
