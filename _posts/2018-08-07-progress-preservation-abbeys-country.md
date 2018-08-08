@@ -5,9 +5,9 @@ date: 2018-08-07 12:00:00 -0800
 categories: [nature,world]
 tags: [California,Utah]
 image:
-  path: /assets/joshuatree.jpg
-  thumbnail: /assets/thumbnails/joshuatree-400x200.jpg
-  caption: "Photo: K. Dynarski"
+  path: /assets/dv.jpg
+  thumbnail: /assets/thumbnails/dv-400x200.jpg
+  caption: "Photo: C. Peterson"
 ---
 
 It was sentimental to bring along Ed, I suppose. It certainly wouldn’t be the first time that someone had thought, “I’m going to the canyonlands – better read Desert Solitaire.” No different than, “I’m in Alaska – better grab my Jack London,” or, “Trip to Yosemite – bring out the John Muir.”  I had first read Abbey as a bookish high school innocent, having picked it up by chance and subsequently been taken aback by the hot-headed disdain for authority, the pugnacious contrarianism dripping from its pages. But there must have been some other reason I had kept that creased and shabby paperback with me for years after, though college, through multiple moves and downscalings. Call it a vague emotional attachment that had caused me to tuck it in a box in the back of my Honda with only my most prized volumes as I drove across the country to start graduate school. I remembered now, when a brief hiatus from my PhD studies allowed me the opportunity for the first time to visit, book in hand, the land that Abbey had evoked for me those years ago. His passion – that was it – his wild contradictions, his descriptive mastery, his ebullient scorn and love for mankind, the way he relished a common wildflower as much as a chunk of quartzite as much as a charismatic catamount. He did not disappoint in the re-reading.
