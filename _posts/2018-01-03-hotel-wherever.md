@@ -6,7 +6,7 @@ categories: [world,nature]
 tags: [California,Florida]
 image:
   path: /assets/birdseye.jpg
-  thumbnail: /assets/thumbnails/birdseye-400x200.JPG
+  thumbnail: /assets/thumbnails/birdseye-400x200.jpg
   caption: "Storefronts in Birdseye, IN. Photo: C. Peterson"
 ---
 ### The perks of ditching the key card
