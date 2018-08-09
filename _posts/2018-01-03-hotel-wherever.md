@@ -5,12 +5,12 @@ date: 2018-01-03 12:00:00 -0800
 categories: [world,nature]
 tags: [California,Florida]
 image:
-  path: /assets/wyoming2.jpg
-  thumbnail: /assets/thumbnails/wyoming2-400x200.JPG
-  caption: "Ranchland near Casper, WY. Photo: C. Peterson"
+  path: /assets/birdseye.jpg
+  thumbnail: /assets/thumbnails/birdseye-400x200.JPG
+  caption: "Storefronts in Birdseye, IN. Photo: C. Peterson"
 ---
 ### The perks of ditching the key card
-I've had enough of hotels in this short lifetime. Weekends traveling college soccer games, academic conferences, family vacations - all of them came along
+I've had enough of hotels in this short lifetime. One weekend after another traveling to college soccer games, academic conferences, family vacations - all of them came along
 with a hotel key and a room, each one identical to all the others.
 
 Hotel chains, I assume, offer the same comfort and consistency that restaurant
@@ -88,6 +88,6 @@ I chose the Highway 50 route over the slightly more direct and faster Highway 80
 
 I crossed the threshold - the Sierra Nevadas - and arrived in California just in time for pumpkin season.
 
-Admittedly, there are many easier ways I could have driven across the U.S. But my slightly meandering and often indeterminate route led to a few things that a pre-fabricated journey, hopscotching from hotel to hotel and gas station to gas station, would never have brought. A college reunion, for one. Several perfect, cloudless, star-strewn nights for another. Re-forged connections with friends and family from Washington, D.C. to Wyoming. A number of unplanned itinerary stops, resulting in such gifts as Henge made from Cars. Places that were once points on a map, now associated with a cup of perfect coffee or a friendly front door. For the cost of a few extra miles out of my way I learned the texture and uniqueness of a vast expanse of my country.
+Admittedly, there are many easier ways I could have driven across the U.S. But my slightly meandering and often indeterminate route led to a few things that a pre-fabricated journey, hopscotching from hotel to hotel and gas station to gas station, would never have brought. A college reunion, for one. Several pristine, cloudless, star-strewn nights for another. Re-forged connections with friends and family from Washington, D.C. to Wyoming. A number of unplanned itinerary stops, resulting in such gifts as a Henge made from Cars. Places that were once points on a map, now associated with a cup of perfect coffee or a friendly front door. For the cost of a few extra miles out of my way I learned the texture and uniqueness of a vast expanse of my country.
 
 I've left my key card at reception, and I won't be needing it back.
