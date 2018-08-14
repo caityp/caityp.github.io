@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Red Dirt Diary #3"
+title: "Red Dirt Diary #4"
 date: 2018-08-13 12:00:00 -0800
 categories: [world,science,agriculture]
 tags: Brazil
@@ -10,7 +10,9 @@ image:
   caption: "A ranch hand at Espinilho works the cattle. Photo: N. Grinnell"
 ---
 ### *Gaucho Science*
-The morning mist is thick and low on the ground. I’m guessing relative humidity of 100%. Vapor pressure deficit 0 kPa. Transpiration 0 mm/s. I can’t even see Pedro and Jonatas as they put together a tripod on the far end of the field. I can just hear the clunks and clangs of the aluminum pipes as they slide into the iron tripod joint. The higher note of the hammer singing as it strikes the stakes, pulling the guy lines firm. One by one the long masts holding the sensor heads pop into view, until finally all six poke lamely into the heavy atmosphere above the soybean canopy. So much metaphor potential it’s almost too easy.
+The morning mist is thick and low on the ground. I’m guessing relative humidity of 100%. Vapor pressure deficit 0 kPa. Transpiration 0 mm/s. I can’t even see Pedro and Jonatas as they put together a tripod on the far end of the field. I can only hear the clunks and clangs of the aluminum pipes as they slide into the iron tripod joint.
+
+The higher note of the hammer sings as it strikes the stakes, pulling the guy lines firm. One by one the long masts holding the sensor heads pop into view, until finally all six poke lamely into the heavy atmosphere above the soybean canopy. So much metaphor potential it’s almost too easy.
 
 I am in Rio Grande do Sul, Brazil, the country’s southernmost state and home of the Gauchos, those quintessential South American cowboys. Espinilho Ranch, some 8 hours’ drive from the state capital of Porto Alegre, produces thousands of hectares of beef cattle and soybeans and is my field site for the Brazilian summer. I have been here since October, foolishly trying to do plant physiology while counting on the cooperation of the weather. The tripods and the adorable little sensors attached to them are all part of my clever (again, read: foolish) plan to track vegetation indices throughout the day, looking for signs of stress in the crop when the weather heats up.
 
@@ -22,10 +24,8 @@ He arrives at just the moment when I’m thrashing around in the soybeans trying
 
 Pedro, Jonatas and I scramble to pull the sensor rigs from the tripod bases, jumbling strings, wires, and protective covers together, rushing to throw old raincoats over the more sensitive equipment in the truck bed as the rain begins pelting down, all while Paulo and his two traveling companions stand watching bemusedly, trying to stay out of the way and getting soaked to their proverbial boxer shorts in the process.  The equipment stowed as well as possible, I manage to direct a shrug and a wry grin in Paulo’s direction. He hides a giggle behind his dripping mustache, seeming to enjoy the show immensely.
 
-<figure>
-  <img src="{{site.baseurl}}/assets/fieldtruck.jpg" class="align-left" alt="" height="650" width="300">
-  <figcaption>Storm clouds move in, but field work carries on. Photo: C. Peterson.</figcaption>
-</figure>
+<img src="{{site.baseurl}}/assets/fieldtruck.jpg" class="align-left" alt="" height="650" width="300">
+<figcaption>Storm clouds move in, but field work carries on. Photo: C. Peterson.</figcaption>
 
 For all its size and dominance in sectors like agriculture, Brazil spends only 1.4% of its GDP on research and development, putting it well below the global average of 2.1%. Things had been gradually improving for science in recent years, until the economic crisis of 2013 sent research funding straight back to the bottom of the government’s agenda. The state of Rio Grande do Sul recently dropped its agricultural research program, FEPAGRO –  just, dropped it, along with its zoobotanical and science and technology programs – leaving its scientists scrambling to find replacement positions in industry or academia. Newly minted PhDs are obliged to look outside the country for employment, resulting in an exodus of Brazil’s most highly educated human resources. Even one of Brazil’s best-funded universities, the Federal University of Rio de Janeiro, has professors in limbo waiting for promised grant money to arrive, and a supercomputer that’s not running for want of a simple repair.
 
