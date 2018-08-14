@@ -10,7 +10,6 @@ image:
   caption: "Photo: C. Peterson"
 ---
 ### *Sombra*
-
 On the day that Ike died, I tried unsuccessfully to hide my dejection from the other folks on the *fazenda*. My faithful blue merle, the first dog that was ever mine, had died of old age on my parents' farm while I was off in this remote corner of Brazil.
 
 I felt silly for being sad about it. The daughter of a veterinarian, the devoted reader of James Herriot – I should be used to the idea of a beloved pet dying. *“Faz parte,”* the people around here say. “That’s all a part of it.” But I felt sharply the loss of my old friend, and Gabriela the cook noticed.
