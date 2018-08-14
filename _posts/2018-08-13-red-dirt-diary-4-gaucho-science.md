@@ -7,7 +7,7 @@ tags: Brazil
 image:
   path: /assets/gaucho.jpg     
   thumbnail: /assets/thumbnails/gaucho-400x200.jpg
-  caption: "A ranch hand at Espinilho works the cattle. Photo: N. Grinnell"
+  caption: "A ranch hand at Tupã works the cattle. Photo: N. Grinnell"
 ---
 ### *Gaucho Science*
 The morning mist is thick and low on the ground. I’m guessing relative humidity of 100%. Vapor pressure deficit 0 kPa. Transpiration 0 mm/s. I can’t even see Pedro and Jonatas as they put together a tripod on the far end of the field. I can only hear the clunks and clangs of the aluminum pipes as they slide into the iron tripod joint.
