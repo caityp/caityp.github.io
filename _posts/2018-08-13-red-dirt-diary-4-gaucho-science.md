@@ -24,10 +24,7 @@ He arrives at just the moment when I’m thrashing around in the soybeans trying
 
 Pedro, Jonatas and I scramble to pull the sensor rigs from the tripod bases, jumbling strings, wires, and protective covers together, rushing to throw old raincoats over the more sensitive equipment in the truck bed as the rain begins pelting down, all while Paulo and his two traveling companions stand watching bemusedly, trying to stay out of the way and getting soaked to their proverbial boxer shorts in the process.  The equipment stowed as well as possible, I manage to direct a shrug and a wry grin in Paulo’s direction. He hides a giggle behind his dripping mustache, seeming to enjoy the show immensely.
 
-<figure>
-  <img src="{{site.baseurl}}/assets/fieldtruck.jpg" class="align-center" alt="" height="650" width="300"/>
-  <figcaption>Storm clouds move in, but field work carries on. Photo: C. Peterson.</figcaption>
-</figure>
+<img src="{{site.baseurl}}/assets/fieldtruck.jpg" class="align-left" alt="" height="650" width="300"/>
 
 For all its size and dominance in sectors like agriculture, Brazil spends only 1.4% of its GDP on research and development, putting it well below the global average of 2.1%. Things had been gradually improving for science in recent years, until the economic crisis of 2013 sent research funding straight back to the bottom of the government’s agenda. The state of Rio Grande do Sul recently dropped its agricultural research program, FEPAGRO –  just, dropped it, along with its zoobotanical and science and technology programs – leaving its scientists scrambling to find replacement positions in industry or academia. Newly minted PhDs are obliged to look outside the country for employment, resulting in an exodus of Brazil’s most highly educated human resources. Even one of Brazil’s best-funded universities, the Federal University of Rio de Janeiro, has professors in limbo waiting for promised grant money to arrive, and a supercomputer that’s not running for want of a simple repair.
 
