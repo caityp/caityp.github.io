@@ -7,7 +7,7 @@ tags: Brazil
 image:
   path: /assets/yawning_dog.JPG     
   thumbnail: /assets/thumbnails/yawning_dog-400x200.JPG
-  caption: "Photo: C. Peterson"
+  caption: "Photo: N. Grinnell"
 ---
 ### *Caio*
 Today Caio and I made a joke. All the ranch hands and I were seated at lunch, munching away at yet another plateful of fatty pork. We have enjoyed so much pork this week – it seems to be all that’s in the freezer at the moment – that it has provoked sarcastic comments among the hands about turning into pigs and complaints about the effect on their waistlines. Marcelo makes pointed oinking noises every time he sits down to eat.

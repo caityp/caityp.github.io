@@ -7,7 +7,7 @@ tags: Brazil
 image:
   path: /assets/herd.JPG     
   thumbnail: /assets/thumbnails/herd-400x200.JPG
-  caption: "Photo: C. Peterson"
+  caption: "Photo: N. Grinnell"
 ---
 ### *A Multião*
 Apart from Ester, José, Tiago, and Sombra, there is no lack for other characters here at the fazenda. Caio is one of them. He is a young, slick-faced, nut-brown ranch hand, one of those men that would be paunchy if he led a city life but is instead lean and powerful from a job that requires constant exercise. He usually wears one of a series of soccer jerseys paired with typical gaucho *bombacha* pants, a knife at his hip. He is equipped with the cleverest tongue of all the ranch hands.
