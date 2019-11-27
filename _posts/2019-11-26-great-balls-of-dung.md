@@ -6,7 +6,7 @@ categories: [world,science,agriculture]
 tags: Brazil
 image:
   path: /assets/dung.jpg     
-  thumbnail: /assets/thumbnails/dung-400x200.JPG
+  thumbnail: /assets/thumbnails/dung-400x200.jpg
   caption: "A glorious ball of dung crafted by a dung beetle at the Espinilho experimental site, Rio Grande do Sul, Brazil. Photo: C. Peterson"
 ---
 
